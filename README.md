@@ -1,0 +1,1 @@
+# google-manufacturer-center
