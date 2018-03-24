@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-manufacturer-center.api.streamdata.gallery
+title: Streamdata Gallery Google Manufacturer Center
+url: google-manufacturer-center.streamdata.gallery
 tag: Google Manufacturer Center
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-manufacturer-center
 github_branch: master
 collections:
