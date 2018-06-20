@@ -4,7 +4,7 @@ x-collection-name: Google Manufacturer Center
 x-complete: 1
 info:
   title: Manufacturer Center
-  description: public-api-for-managing-manufacturer-center-related-data
+  description: public-api-for-managing-manufacturer-center-related-data-
   contact:
     name: Google
     url: https://google.com
