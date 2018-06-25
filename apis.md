@@ -5,7 +5,7 @@ description: This is a repository of google manufacturer center APIs, self-conta
   surrounding operations.
 image: http://template.streamdata.gallery/assets/google-manufacturer-center.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-manufacturer-center.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
